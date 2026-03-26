@@ -1,0 +1,5 @@
+add_subdirectory(bmp_writer)
+add_subdirectory(field)
+add_subdirectory(parser)
+add_subdirectory(tsv_reader)
+add_subdirectory(sand_pile)
